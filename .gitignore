@@ -1,0 +1,10 @@
+# Ignore FASTQ files
+*.fastq.gz
+*.fq.gz
+*.sra
+# Optional: Ignore other large or auto-generated files
+*.bam
+*.sam
+*.log
+*.tmp
+*.cache/
